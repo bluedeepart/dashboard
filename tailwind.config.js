@@ -19,7 +19,7 @@ module.exports = {
       white: '#fff',
     },
     fontFamily: {
-      serif: 'Open Sans, sans-serif',
+      serif: 'Poppins, sans-serif',
     },
     extend: {
       colors: {
